@@ -2,6 +2,7 @@ import requests
 
 # List of URLs to monitor
 urls_to_monitor = [
+    "https://call-jx24.onrender.com",
     "https://share-whiteboard.onrender.com",
     "https://whatsappv6.onrender.com"
 ]
