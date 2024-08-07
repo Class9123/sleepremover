@@ -2,8 +2,8 @@ import requests
 
 # List of URLs to monitor
 urls_to_monitor = [
-    "http://example1.com",
-    "http://example2.com"
+    "https://share-whiteboard.onrender.com",
+    "https://whatsappv6.onrender.com"
 ]
 
 def check_urls():
